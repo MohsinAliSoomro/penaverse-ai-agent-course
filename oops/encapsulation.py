@@ -23,7 +23,6 @@ class Dog:
 
 
 dog = Dog("Buddy","Labrador",50)
-
 print(dog.name)
 
 print(dog._breed)
